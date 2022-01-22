@@ -1,0 +1,18 @@
+3520 4 4.0 77500
+2324 Dobbins Ln Irving TX 75063 
+7623 true src/lab/House.png
+24773 8 13.0 9999900
+940 W Dove Rd Southlake TX 76092
+210394 true src/lab/House2.png
+7297 4 7.0 5500000
+3611 Milton Ave University Park TX 75205
+13939 false src/lab/House3.png
+9107 5 8.0 4850000
+8111 Inwood Rd Dallas TX 75209
+66646 true src/lab/House4.png
+7068 5 6.0 1899000
+1500 Southfalls Ct Flower Mound TX 75022
+87555 true src/lab/House5.png
+5935 4 6.0 2395000
+6475 Norway Rd Dallas TX 75230
+19602 true src/lab/House6.png
